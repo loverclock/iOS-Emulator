@@ -1,0 +1,7 @@
+ver:1
+host:192.168.2.102
+port1:10001
+port2:11001
+debug:no
+send_log:true
+property_string:31808
